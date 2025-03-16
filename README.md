@@ -1,4 +1,7 @@
-$${\color{red}Currently \space Listening \space To:}$$
+$$
+{\Huge \color{red}Currently \space Listening \space To:}
+$$
+
 
 
 <a href="https://Termito.pythonanywhere.com/link">
