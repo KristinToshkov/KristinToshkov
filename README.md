@@ -1,4 +1,6 @@
-$ {\Huge \color{red}Currently \space Listening \space To:} $
+$$
+{\Huge \color{red}Currently \space Listening \space To:}
+$$
 
 
 
