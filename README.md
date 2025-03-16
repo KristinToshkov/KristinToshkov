@@ -1,4 +1,4 @@
-$${\color{red}Currently Listening To:}$$
+$${\color{red}Currently\spaceListening\spaceTo:}$$
 
 
 <a href="https://Termito.pythonanywhere.com/link">
